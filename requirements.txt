@@ -1,0 +1,3 @@
+FastApi
+uvicorn[standard]
+pymongo[srv]
