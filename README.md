@@ -2,4 +2,4 @@
 
 FastAPI Framework
 
-MongoDB Database
+MongoDB Database (NoSQL)
